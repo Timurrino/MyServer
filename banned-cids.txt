@@ -1,0 +1,5 @@
+# Updated 11/10/16 05:34 by Genisys 
+# victim name | ban date | banned by | banned until | reason
+
+bromen|2016-11-09 10:37:34 +0300|CONSOLE|Forever|Banned by an operator.
+bromen_yt|2016-11-10 05:34:58 +0300|CONSOLE|Forever|Banned by an operator.

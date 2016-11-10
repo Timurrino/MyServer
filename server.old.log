@@ -1,0 +1,81 @@
+2016-11-10 [15:17:54] [Server thread/WARNING]: The OpenSSL extension is not loaded, and this is required for XBOX authentication to work. If you want to use Xbox Live auth, please update your PHP binaries at itxtech.org/download, or recompile PHP with the OpenSSL extension.
+2016-11-10 [15:17:54] [Server thread/INFO]: Selected English (eng) as the base language
+2016-11-10 [15:17:54] [Server thread/INFO]: Starting remote control listener
+2016-11-10 [15:17:54] [Server thread/INFO]: RCON running on 185.97.254.67:12064
+2016-11-10 [15:17:54] [Server thread/INFO]: Opening server on 185.97.254.67:12064
+2016-11-10 [15:17:54] [Server thread/INFO]: Genisys is distributed under the GPL License version 3 and later
+2016-11-10 [15:17:54] [Server thread/ERROR]: Could not load '/home/servs/srv5612/plugins/Fly_24serv_v0.0.1.phar' in folder '/home/servs/srv5612/plugins/': manifest cannot be larger than 100 MB in phar "/home/servs/srv5612/plugins/Fly_24serv_v0.0.1.phar"
+2016-11-10 [15:17:54] [Server thread/CRITICAL]: UnexpectedValueException: "manifest cannot be larger than 100 MB in phar "/home/servs/srv5612/plugins/Fly_24serv_v0.0.1.phar"" (EXCEPTION) in "/src/pocketmine/plugin/PharPluginLoader" at line 85
+2016-11-10 [15:17:54] [Server thread/INFO]: Loading essentialsTP v1.0.9
+2016-11-10 [15:17:54] [Server thread/INFO]: Loading ServerAuth v2.13
+2016-11-10 [15:17:54] [Server thread/INFO]: Loading DiamondNumber v1.0
+2016-11-10 [15:17:54] [Server thread/INFO]: Loading PurePerms v1.3.7
+2016-11-10 [15:17:54] [Server thread/NOTICE]: PurePerms by 64FF00 & ProjectInfinity! #LEET.CC
+
+  888  888    .d8888b.      d8888  8888888888 8888888888 .d8888b.   .d8888b. 
+  888  888   d88P  Y88b    d8P888  888        888       d88P  Y88b d88P  Y88b
+888888888888 888          d8P 888  888        888       888    888 888    888
+  888  888   888d888b.   d8P  888  8888888    8888888   888    888 888    888
+  888  888   888P "Y88b d88   888  888        888       888    888 888    888
+888888888888 888    888 8888888888 888        888       888    888 888    888
+  888  888   Y88b  d88P       888  888        888       Y88b  d88P Y88b  d88P
+  888  888    "Y8888P"        888  888        888        "Y8888P"   "Y8888P" 
+
+2016-11-10 [15:17:54] [Server thread/INFO]: [PurePerms] Setting default language to 'en'
+2016-11-10 [15:17:54] [Server thread/NOTICE]: [PurePerms] Multiworld support is currently disabled.
+2016-11-10 [15:17:54] [Server thread/NOTICE]: [PurePerms] Don't forget to set enable-multiworld-perms option in config.yml to true if you want to use per-world permissions!
+2016-11-10 [15:17:54] [Server thread/INFO]: Loading SimpleGamemode v1.0
+2016-11-10 [15:17:54] [Server thread/INFO]: Loading DevTools v1.1.1-iTX
+2016-11-10 [15:17:54] [Server thread/INFO]: Loading AdvancedKits v4
+2016-11-10 [15:17:54] [Server thread/INFO]: Loading RegionGuard vFinal_1.1
+2016-11-10 [15:17:54] [Server thread/INFO]: Loading SaveInv v0.0.1
+2016-11-10 [15:17:54] [Server thread/INFO]: Loading PureChat v1.4.0
+2016-11-10 [15:17:54] [Server thread/INFO]: Enabling ServerAuth v2.13
+2016-11-10 [15:17:54] [Server thread/NOTICE]: [ServerAuth] ServerAuth от 24serv.pro успешно загружен! ♥
+2016-11-10 [15:17:54] [Server thread/NOTICE]: [ServerAuth] Покупайте сервера на 24serv.pro и играйте с удовольствием!
+2016-11-10 [15:17:54] [Server thread/INFO]: Enabling DevTools v1.1.1-iTX
+2016-11-10 [15:17:54] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2016-11-10 [15:17:54] [Server thread/INFO]: Preparing level "world2"
+2016-11-10 [15:17:54] [Server thread/INFO]: Preparing level "nether"
+2016-11-10 [15:17:54] [Server thread/INFO]: Enabling essentialsTP v1.0.9
+2016-11-10 [15:17:54] [Server thread/INFO]: [essentialsTP] essentialsTP+ loading...
+2016-11-10 [15:17:54] [Server thread/INFO]: [essentialsTP] [INFO] loading [config.yml]....
+2016-11-10 [15:17:54] [Server thread/INFO]: [essentialsTP] [INFO] loading [config.yml] DONE
+2016-11-10 [15:17:54] [Server thread/INFO]: [essentialsTP] essentialsTP+ loaded!
+2016-11-10 [15:17:54] [Server thread/INFO]: Enabling DiamondNumber v1.0
+2016-11-10 [15:17:54] [Server thread/INFO]: Enabling PurePerms v1.3.7
+2016-11-10 [15:17:54] [Server thread/NOTICE]: [PurePerms] Set data provider to YAMLv1.
+2016-11-10 [15:17:54] [Server thread/CRITICAL]: RuntimeException: "No groups found, I guess there's definitely something wrong with your data provider... *cough cough*" (EXCEPTION) in "/PurePerms_v1.3.7.phar/src/_64FF00/PurePerms/PurePerms" at line 679
+2016-11-10 [15:17:54] [Server thread/INFO]: Disabling PurePerms v1.3.7
+2016-11-10 [15:17:54] [Server thread/INFO]: Enabling SimpleGamemode v1.0
+2016-11-10 [15:17:54] [Server thread/INFO]: [SimpleGamemode] SimpleGamemode от 24serv.pro успешно загружен!
+2016-11-10 [15:17:54] [Server thread/INFO]: Enabling AdvancedKits v4
+2016-11-10 [15:17:54] [Server thread/INFO]: Enabling RegionGuard vFinal_1.1
+2016-11-10 [15:17:54] [Server thread/INFO]: [RegionGuard] Приват система запущена!
+2016-11-10 [15:17:54] [Server thread/INFO]: Enabling SaveInv v0.0.1
+2016-11-10 [15:17:54] [Server thread/INFO]: [SaveInv] SaveInv от 24serv.pro успешно загружен!
+2016-11-10 [15:17:54] [Server thread/INFO]: [SaveInv] Данный плагин сделан для пользователей хостинга 24serv.pro!
+2016-11-10 [15:17:54] [Server thread/INFO]: Enabling PureChat v1.4.0
+2016-11-10 [15:17:54] [Server thread/NOTICE]: [PureChat] No valid factions plugin in default-factions-plugin node was found. Disabling factions plugin support.
+2016-11-10 [15:17:54] [Server thread/INFO]: Starting GS4 status listener
+2016-11-10 [15:17:54] [Server thread/INFO]: Setting query port to 12064
+2016-11-10 [15:17:54] [Server thread/INFO]: Query running on 185.97.254.67:12064
+2016-11-10 [15:17:54] [Server thread/INFO]: Default game type: Survival Mode
+2016-11-10 [15:17:54] [Server thread/INFO]: Done (0.787s)! For help, type "help" or "?"
+2016-11-10 [15:20:51] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2016-11-10 [15:20:52] [Server thread/INFO]: Disabling essentialsTP v1.0.9
+2016-11-10 [15:20:52] [Server thread/INFO]: [essentialsTP] essentialsTP+ Disabled
+2016-11-10 [15:20:52] [Server thread/INFO]: Disabling ServerAuth v2.13
+2016-11-10 [15:20:52] [Server thread/INFO]: Disabling DiamondNumber v1.0
+2016-11-10 [15:20:52] [Server thread/INFO]: Disabling SimpleGamemode v1.0
+2016-11-10 [15:20:52] [Server thread/INFO]: [SimpleGamemode] SimpleGamemode от 24serv.pro успешно выключен!
+2016-11-10 [15:20:52] [Server thread/INFO]: Disabling DevTools v1.1.1-iTX
+2016-11-10 [15:20:52] [Server thread/INFO]: Disabling AdvancedKits v4
+2016-11-10 [15:20:52] [Server thread/INFO]: Disabling RegionGuard vFinal_1.1
+2016-11-10 [15:20:52] [Server thread/INFO]: [RegionGuard] Приват система выключена
+2016-11-10 [15:20:52] [Server thread/INFO]: Disabling SaveInv v0.0.1
+2016-11-10 [15:20:52] [Server thread/INFO]: [SaveInv] SaveInv от 24serv.pro успешно выключен!
+2016-11-10 [15:20:52] [Server thread/INFO]: Disabling PureChat v1.4.0
+2016-11-10 [15:20:52] [Server thread/INFO]: Unloading level "world2"
+2016-11-10 [15:20:52] [Server thread/INFO]: Unloading level "nether"
+2016-11-10 [15:20:52] [Server thread/INFO]: Stopping other threads

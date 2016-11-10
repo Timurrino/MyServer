@@ -1,0 +1,5 @@
+# Updated 11/10/16 08:58 by Genisys 
+# victim name | ban date | banned by | banned until | reason
+
+dr|2016-11-09 15:13:30 +0300|FicMix|Forever|Banned by an operator.
+broman_yt|2016-11-09 15:14:51 +0300|FicMix|Forever|Banned by an operator.
